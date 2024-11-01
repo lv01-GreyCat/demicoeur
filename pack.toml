@@ -1,0 +1,16 @@
+name = "demi"
+author = "Grey Cat"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = ""
+hash = ""
+
+[versions]
+fabric = ""
+minecraft = ""
+
+[options]
+acceptable-game-versions = []
