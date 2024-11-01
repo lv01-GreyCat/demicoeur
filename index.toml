@@ -695,13 +695,12 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
-file = "resourcepacks/3d-crops.pw.toml"
-hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
-metafile = true
+file = "resourcepacks/3D Default 1.20+ v1.10.2.zip"
+hash = "d06c79d5be112a453d378606f8db72f3affcec5862a9e6be2257e53e65f88143"
 
 [[files]]
-file = "resourcepacks/3d-default.pw.toml"
-hash = "2be4e786d4f58ae853a4b46da89be0d7da5876f7df20b6c00e8c8fe73e0347db"
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
 metafile = true
 
 [[files]]

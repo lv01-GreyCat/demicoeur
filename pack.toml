@@ -1,12 +1,12 @@
 name = "demi21.1"
 author = "Grey Cat"
-version = "1.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ff9725449fe43120400ac4648f1de2357387e221fe0d4e071e8c51e4524eef5c"
+hash = "48a22eb1259638f46ba415b25dcf44940999a34918da0194e78ea56f63f00a6a"
 
 [versions]
 fabric = "0.16.8"
