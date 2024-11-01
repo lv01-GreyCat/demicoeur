@@ -1,0 +1,13 @@
+name = "Animated Dragon totem"
+filename = "§4§l§o§kaaa§6§l§5 Dragon Totem §4§l§o§kaaa.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7qFtJvF/versions/K3kYJuNe/%C2%A74%C2%A7l%C2%A7o%C2%A7kaaa%C2%A76%C2%A7l%C2%A75%20Dragon%20Totem%20%C2%A74%C2%A7l%C2%A7o%C2%A7kaaa.zip"
+hash-format = "sha512"
+hash = "8222b1a93b1ec599413ba210f78f97eb4de22609b6e496bad86a5991bf7b22e8c560e0bd8d5159850dff65830654634272c25905ec5af004499a47e04b9b65a1"
+
+[update]
+[update.modrinth]
+mod-id = "C7qFtJvF"
+version = "K3kYJuNe"

@@ -1,0 +1,13 @@
+name = "Right Click Chest Boat"
+filename = "right-click-chest-boat-fabric-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eV0rTOBa/versions/wD2jt3hU/right-click-chest-boat-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "52d0657555b4a5765266d92a2a4d0faca495c31a7fd3cb961de9557ddc46b51e74f26dd9da52bc4a63a6c8cb93f3381452a03cc06d8c007ed003d417fdb2c615"
+
+[update]
+[update.modrinth]
+mod-id = "eV0rTOBa"
+version = "wD2jt3hU"

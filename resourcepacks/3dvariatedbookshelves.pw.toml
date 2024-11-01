@@ -1,0 +1,13 @@
+name = "3D Variated Bookshelves"
+filename = "3D Variated Bookshelves.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xFFCT2WB/versions/UhlMmf6h/3D%20Variated%20Bookshelves.zip"
+hash-format = "sha512"
+hash = "20131e5f9f85997ca7b4e772fb12a46a29630f52762249ae198d80f0d90286173a36cc604fd87307016eb951e6e58a123c94881e34e2ff9d9e1819678230c8a2"
+
+[update]
+[update.modrinth]
+mod-id = "xFFCT2WB"
+version = "UhlMmf6h"

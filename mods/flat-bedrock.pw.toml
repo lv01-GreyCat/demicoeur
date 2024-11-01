@@ -1,0 +1,13 @@
+name = "Flat Bedrock"
+filename = "flatbedrock-fabric-87.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYLnkiVu/versions/n9f2ny34/flatbedrock-fabric-87.0.0.jar"
+hash-format = "sha512"
+hash = "a167b2d9089249bf56afa714813a718f0c2a806ed20f40621e4471cb5bb35e4bd0f35f38dfb0de99077f39b969ce511ff760011b1d014e917fd450354081e3d5"
+
+[update]
+[update.modrinth]
+mod-id = "ZYLnkiVu"
+version = "n9f2ny34"

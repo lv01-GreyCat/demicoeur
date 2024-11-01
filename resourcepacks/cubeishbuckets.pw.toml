@@ -1,0 +1,13 @@
+name = "Cube-ish Buckets"
+filename = "Cube-ish Buckets (1.21).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1LULSldP/versions/mvJeGXel/Cube-ish%20Buckets%20%281.21%29.zip"
+hash-format = "sha512"
+hash = "1f762c18f62c04ca47dcd23bf1f17cbd850bed6e4db461e91070120e75afe76a579e59fe66d0464718de3f7c1e2a04676468668b476b120eb381f03cb50d5412"
+
+[update]
+[update.modrinth]
+mod-id = "1LULSldP"
+version = "mvJeGXel"

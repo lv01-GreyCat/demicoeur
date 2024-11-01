@@ -1,0 +1,13 @@
+name = "WI Zoom"
+filename = "WI-Zoom-1.5-MC1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/BMvLe1xP/WI-Zoom-1.5-MC1.21.1.jar"
+hash-format = "sha512"
+hash = "6877b71fe0c8ed51ccf251310593de2de147409ba69c2b96099b264a0a54bcac339d80816b34999e03cabf6a7e3a47bb4ce45a365923e3cd5443283078c948f0"
+
+[update]
+[update.modrinth]
+mod-id = "o7DitHWP"
+version = "BMvLe1xP"

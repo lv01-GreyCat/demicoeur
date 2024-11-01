@@ -1,0 +1,53 @@
+{
+	"schema_version": "2",
+	"failed_reloads_per_session": 5,
+	"default_overrides": {
+		"force_compatible": true
+	},
+	"default_packs": [
+		"vanilla",
+		"fabric",
+		"presencefootsteps:default_sound_pack",
+		"continuity:glass_pane_culling_fix",
+		"continuity:default",
+		"file/EclecticTrove-1.20.1-1.3.0.zip",
+		"file/Shield By Side 1.0.zip",
+		"file/3D Default 1.20+ v1.10.2.zip",
+		"file/3D Variated Bookshelves.zip",
+		"file/crops-3d.zip",
+		"file/§2§lSquare Grass 1.21.zip",
+		"file/SuperSimple3DdripstoneV1.4.zip",
+		"file/§aChests§8-§aReimagined§0_§8[v1.5]§0.zip",
+		"file/Better+Lanterns+v1.2(mc-1.21).zip",
+		"file/Improved cake.zip",
+		"file/Better Entity Shadow! (2.0v).zip",
+		"file/cubic-sun-moon-v1-8a.zip",
+		"file/New Torches.zip",
+		"file/Redstone Torch Backport Supporter §cv1.2§r.zip",
+		"file/xali\u0027s enchanted books v0.13.0.zip",
+		"file/Shrimps-Distinct-Potions.zip",
+		"file/Cube-ish Buckets (1.21).zip",
+		"file/§4§l§o§kaaa§6§l§5 Dragon Totem §4§l§o§kaaa.zip",
+		"file/better-sticky.zip",
+		"file/FreshAnimations_v1.9.2.zip",
+		"file/FA+All_Extensions-v1.4.zip",
+		"file/Fresh Skeleton Physics.zip",
+		"minecraft:supporteatinganimation",
+		"file/§9Better Boats.zip",
+		"file/Os\u0027 Amethyst Indicator.zip",
+		"file/Default-Dark-Mode-1.20.2+-2024.6.0.zip",
+		"file/Default-Dark-Mode-Expansion-1.19.0+-2024.9.22.zip"
+	],
+	"pack_overrides": {
+		"1": [
+			"black_icons",
+			"white_icons",
+			"classic_icons",
+			"lootr:old_textures",
+			"programmer_art"
+		],
+		"$$1": {
+			"hidden": true
+		}
+	}
+}

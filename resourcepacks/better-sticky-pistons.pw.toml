@@ -1,0 +1,13 @@
+name = "Better Sticky Pistons"
+filename = "better-sticky.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UkndUngM/versions/OtCrLwgJ/better-sticky.zip"
+hash-format = "sha512"
+hash = "ab23ad4b30869a835a7d0ed96ba5661c7248fb2d594e3a9d0c3ec4a91614a903c34e3f6568e07a7210ce61c50afb57077c3046ae5e5bcc8e487806429fe1bd2d"
+
+[update]
+[update.modrinth]
+mod-id = "UkndUngM"
+version = "OtCrLwgJ"

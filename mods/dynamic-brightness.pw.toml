@@ -1,0 +1,13 @@
+name = "Dynamic Brightness"
+filename = "DynamicBrightness-fabric-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qTnNnvU0/versions/f0775LMS/DynamicBrightness-fabric-1.2.1.jar"
+hash-format = "sha512"
+hash = "0b9661c1091f976707bbd52dfeb2b42d21756a26bf4f93d3aaf32d47f0c70ae6675505b4210e911430fe05d9eab3446f60938884e8d27386289b156610bceee1"
+
+[update]
+[update.modrinth]
+mod-id = "qTnNnvU0"
+version = "f0775LMS"

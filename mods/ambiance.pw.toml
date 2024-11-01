@@ -1,0 +1,13 @@
+name = "Ambiance"
+filename = "ambiance-v1.0.0-fabric-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hCdWhw9o/versions/Pvzim5nr/ambiance-v1.0.0-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "16161a30b94a2a961adc332e91aa3c008975fe2b848a6af03db09ec73feea79b0a0252aa6ae434b42a0f2c6866ee2c2ba7418985d67ef0c6785f6858d1123348"
+
+[update]
+[update.modrinth]
+mod-id = "hCdWhw9o"
+version = "Pvzim5nr"

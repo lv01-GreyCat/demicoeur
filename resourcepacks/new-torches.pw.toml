@@ -1,0 +1,13 @@
+name = "New Torches"
+filename = "New Torches.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hrl26TBG/versions/YWC8iIyl/New%20Torches.zip"
+hash-format = "sha512"
+hash = "8af03116cdc1a133864d4265ec9e1edd0869cf6ba5151ccb4aff3a0516a0963e173ead62b3d464dbfbb51328edc1cd4216ea1bc536153e5361aa02b1534eb03f"
+
+[update]
+[update.modrinth]
+mod-id = "Hrl26TBG"
+version = "YWC8iIyl"

@@ -1,0 +1,13 @@
+name = "Transparent UI + Mod Support"
+filename = "Transparent UI v1 mc1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Go0Wa8T9/versions/V3l7FCIh/Transparent%20UI%20v1%20mc1.21.zip"
+hash-format = "sha512"
+hash = "0682d3a7267bb42f5ddcae7bac41799f2500ab73be574504085d4b7ba2f59c434ef7562a9558ab5906a5914e49f703fd72557f4e23cc925e29f5a0836e453857"
+
+[update]
+[update.modrinth]
+mod-id = "Go0Wa8T9"
+version = "V3l7FCIh"

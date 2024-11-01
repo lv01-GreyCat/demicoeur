@@ -1,0 +1,13 @@
+name = "Square Grass"
+filename = "§2§lSquare Grass 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2i2HDjSq/versions/NVSQLetK/%C2%A72%C2%A7lSquare%20Grass%201.21.zip"
+hash-format = "sha512"
+hash = "6a1bfd460b8ac5539b1fc248b7ac67a18e2b34a3890d375cffb5c9618706819ad8239338d0213415ee38980ff532f2e3203bdad91d6d2d2a90c9271862c1e968"
+
+[update]
+[update.modrinth]
+mod-id = "2i2HDjSq"
+version = "NVSQLetK"

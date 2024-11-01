@@ -1,0 +1,13 @@
+name = "No Mo' Spiders!"
+filename = "mo-komodo.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PSZWF9x/versions/B50t6B9G/mo-komodo.zip"
+hash-format = "sha512"
+hash = "48dfbb3b2b2f6715c73bf9c6c5bcb92ef7527c540452085c84e222986e86671dd2c8f131ce409cb9db0a378ad7735bacc600b2517ef33415b1bb3822481341be"
+
+[update]
+[update.modrinth]
+mod-id = "6PSZWF9x"
+version = "B50t6B9G"

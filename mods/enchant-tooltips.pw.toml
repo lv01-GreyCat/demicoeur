@@ -1,0 +1,13 @@
+name = "Enchant Tooltips"
+filename = "enchant-tooltips-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZGu7slq/versions/LG18ZrUE/enchant-tooltips-1.0.1.jar"
+hash-format = "sha512"
+hash = "d69d665110f2624b11aa9e0613765ef18cc1fd30c57e9e39dbad0ca3feadf89636712cac6ce1fe674c5ce7aab1cfcb6248574c335a6a481bb319e2a1365e4ddf"
+
+[update]
+[update.modrinth]
+mod-id = "uZGu7slq"
+version = "LG18ZrUE"

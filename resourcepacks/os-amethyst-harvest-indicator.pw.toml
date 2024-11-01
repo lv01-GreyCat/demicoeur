@@ -1,0 +1,13 @@
+name = "Os' Amethyst Harvest Indicator"
+filename = "Os' Amethyst Indicator.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P5Lom4bY/versions/lIQeAYsD/Os%27%20Amethyst%20Indicator.zip"
+hash-format = "sha512"
+hash = "d4a2a3bc21dd25e65882524bd042e5b69ff856584c41ca00ef02128700692e7cf73c48f37178fecf5971e1d730eb3af1291aac67b4de41c4a1f56a542cfe3488"
+
+[update]
+[update.modrinth]
+mod-id = "P5Lom4bY"
+version = "lIQeAYsD"

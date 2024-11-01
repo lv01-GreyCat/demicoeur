@@ -1,0 +1,13 @@
+name = "Status"
+filename = "status-fabric-1.21.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b93awgkg/versions/kjAyWumS/status-fabric-1.21.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "bdd434936fab28d8647f345c9c24e58cbd82e9ae2ba3d740c979584f9f6ffa19559494038d0ef8f451457163f7800a1569b3abd81d5548b40d3328e724d65a7f"
+
+[update]
+[update.modrinth]
+mod-id = "b93awgkg"
+version = "kjAyWumS"

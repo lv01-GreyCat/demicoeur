@@ -1,0 +1,13 @@
+name = "Best Bundles"
+filename = "bestbundles-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7xC736s0/versions/VFiZy5CO/bestbundles-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "102ed537a3d8ac01e7474dcec792a309542ad46332a948f31246c65ce8656ada349554c3d14fc1317726cd532e8f30950e2684bec7e52f127d07cec051bf30ac"
+
+[update]
+[update.modrinth]
+mod-id = "7xC736s0"
+version = "VFiZy5CO"

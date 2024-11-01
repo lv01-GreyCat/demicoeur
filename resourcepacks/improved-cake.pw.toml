@@ -1,0 +1,13 @@
+name = "Improved cake"
+filename = "Improved cake.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LLQCMACz/versions/NC5lITGp/Improved%20cake.zip"
+hash-format = "sha512"
+hash = "8c58b96c5c3327a62b39646f14bfc27b6de47270a329c7d68c520d9327d5855fc83979c29070efa7d2632360494e20ab69c328cfb250eddf75c37013adf43820"
+
+[update]
+[update.modrinth]
+mod-id = "LLQCMACz"
+version = "NC5lITGp"

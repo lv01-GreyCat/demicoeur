@@ -1,0 +1,13 @@
+name = "Better hidden chat"
+filename = "betterhiddenchat-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/79OJNlZZ/versions/kCx4xsBq/betterhiddenchat-1.1.0.jar"
+hash-format = "sha512"
+hash = "c7da0c724368448b7a26a4f70edae06f0ed3ee26bc4ce1d203c652703090df2d05c91789bb91d27d5b72bcc6b49372540cdfa18d2415ec5783cab432b7e52c7f"
+
+[update]
+[update.modrinth]
+mod-id = "79OJNlZZ"
+version = "kCx4xsBq"
