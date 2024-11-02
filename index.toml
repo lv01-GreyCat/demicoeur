@@ -5,12 +5,24 @@ file = "config/yosbr/config/beautifiedchatclient.json5"
 hash = "2a5f5d12ccb01fec99d293cf2e738e4d9beb77bd78237b370e1435279e59bf8d"
 
 [[files]]
+file = "config/yosbr/config/continuebutton/config.properties"
+hash = "de1aa9c5d8504aab5d4a54e38987a81d94833a64f7eb26023eddd95498bce6be"
+
+[[files]]
 file = "config/yosbr/config/double_hotbar.json5"
 hash = "c601386440f3dbfca6d7d566b3874621245bd9dd40c9360c72d63fc2c9c14d62"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "f1475800ebab448e8713e30be178ec10544d9feb971b3569025c9a47ecaeeaad"
+
+[[files]]
+file = "config/yosbr/config/easymagic-client.toml"
+hash = "7da3b5415ab0ee3b12704e518f06966066c8a7e09361ec951c7eacdd808ea933"
+
+[[files]]
+file = "config/yosbr/config/easymagic-server.toml"
+hash = "1cc216fe0d2faf379e026ad30007cee791fd891137a241cd3e5cf8fc44f753a6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -25,12 +37,8 @@ file = "config/yosbr/config/ping-wheel.json"
 hash = "8bbb725afa4d20787806f8d5a60461f669ade2d4a2b743c1df3666a0a28e8449"
 
 [[files]]
-file = "config/yosbr/config/replaymod.json"
-hash = "38a226ca4d24ebe6114b81bea0101d59bcc62c51793b44b53ebac7830fa6cc65"
-
-[[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "dbcb83eb308e39d61461eb4d563b723115bc6a19948ed428741ae89efba9cffd"
+hash = "f60f99102d5eefa8ab9721a8fe76db564870045de641f92253c5cc8ce6100f8c"
 
 [[files]]
 file = "config/yosbr/config/vcinteraction/vcinteraction.properties"
@@ -38,7 +46,7 @@ hash = "75ed7db429ea7a69074da2ffa33bf762df812a31041dcc23394cf8425595d188"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b7c3d04bca29ad29aa4ab8fb3f9a1eae5d1faf8c775be3033daf895b13aec8f6"
+hash = "c57673e8ffa461c74125c6fd6d6c604f33b0c38606f2b0467fadf5a27a45bf15"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -190,8 +198,8 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
-file = "mods/clickthrough2.0.pw.toml"
-hash = "af9c86c5779433e7ede53499e2573388b2eb63ef7baa58db4006ee6d2d311597"
+file = "mods/clickthrough+.pw.toml"
+hash = "8c1018171a8d9d87d0ba576a5a30530b8f6ab3b6c5b356aebad0f5d4fa280c4a"
 metafile = true
 
 [[files]]
@@ -215,6 +223,11 @@ hash = "75226fe31d286f478959036e3431292edacf7be2c51012a9dea5d74ff24ebec3"
 metafile = true
 
 [[files]]
+file = "mods/continue.pw.toml"
+hash = "ea8aeb8d9c95ce2bcc1b927b006f217410789b1b659de81dbcee9eb8c931de92"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
 metafile = true
@@ -222,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "455d633469dbcd76deca1297e4db65322e66fefe62b2df5a1752e027384b7c3b"
 metafile = true
 
 [[files]]
@@ -237,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "b725bd96844d15a5e9017ab0ac09154014206c6918ebc3b83dcdbe0726a05bc1"
+metafile = true
+
+[[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "8d99464e2f16a58e9d6426fbd818d8a28ca5472621902a93e19ea89deddd67ce"
 metafile = true
 
 [[files]]
@@ -260,6 +283,11 @@ hash = "6c697c8b7205ea2be0e04567b42e64f120ccda136930a99c059f80e15ed51ea7"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "64555abb4588840d78ca5a21d98312f9cb080cd6d044685db7741948e47b48bd"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
 metafile = true
@@ -275,6 +303,21 @@ hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "1f9cd4e83ced98ba9f8ccff164ce108990e1e8f8f8205b6c549f7db26f1d8c11"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "a38b57a5cd96b43ddcbea84ba99007113c320b85858051929fae363c3d171ea4"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "84a4b652ef5af08d17d349859027c5768488426f490f553753925871bd270bfa"
+metafile = true
+
+[[files]]
 file = "mods/enchant-tooltips.pw.toml"
 hash = "8559fa5e7029a72ebd3eebc4188a95925f716cd651f213874b59de89a5e1578d"
 metafile = true
@@ -282,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
+metafile = true
+
+[[files]]
+file = "mods/entity-pin-cushions.pw.toml"
+hash = "98fc45453fdac86d361d4d16736983534d93f1c4006bcece0502070d259126d4"
 metafile = true
 
 [[files]]
@@ -312,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
-metafile = true
-
-[[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "77c35043d1e5dbeba210c69ef7aa15dd47ab978e2e27ee3e37ad8838a0c08d80"
 metafile = true
 
 [[files]]
@@ -352,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "14c177d85196e5f81b2fba22ecf5ee95abe5819709071634b3237437cb352572"
 metafile = true
 
 [[files]]
@@ -397,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "ea21b3813c94223714ea5f666815dd14aa0c379a2e70d87571d3b9a2bab26b68"
 metafile = true
 
 [[files]]
@@ -460,6 +513,11 @@ hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
 metafile = true
 
 [[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "5f78454f0381011cb264a51bf516452a0dc874cd5e4500a913a27771c9a9aad9"
+metafile = true
+
+[[files]]
 file = "mods/minecart-turning.pw.toml"
 hash = "52b8dec31c7e74101940876a438669863416d30715ba0299d850208dd0cf1f30"
 metafile = true
@@ -505,6 +563,11 @@ hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+hash = "7d44aac0137dc9ca5de82b350e1e2602db35f599874627477a42d6e64e6b9403"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "92729f4ffc04dc91a6749f0846d38013c93b725fd87beb33cb384b7be36ab25e"
 metafile = true
@@ -545,11 +608,6 @@ hash = "c7b00c2657fd545091480fbc7e48a2fe4be6e2bbe0711843a0328c969b0b7d97"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "c7faa4bd63a6e637652af59586596203726ce2f76d4bb22343bdc1bcccb446c0"
-metafile = true
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
@@ -560,13 +618,13 @@ hash = "6891f1e1b0b0fd3650023b8e984447f7e0a3e1488a203fec0cdfd201a9a59ee7"
 metafile = true
 
 [[files]]
-file = "mods/right-click-chest-boat.pw.toml"
-hash = "f85bc5738ae52a804d70bce0ff9141d356e335559b99c021ba107c9ec09aca04"
+file = "mods/revault.pw.toml"
+hash = "cf06225c2b2cd3dfee339a9eb451311ec9180903d33bc20c6855522679b349bb"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "206db4ae686e9cd2f7a7f89d6a5d8be58493d73576496f135472f93dd0ab0127"
+file = "mods/right-click-chest-boat.pw.toml"
+hash = "f85bc5738ae52a804d70bce0ff9141d356e335559b99c021ba107c9ec09aca04"
 metafile = true
 
 [[files]]
@@ -677,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "935be1426f9fd50cf30a6953142eb490cb4b445e1739d5552d074828b69e2ba6"
 metafile = true
 
 [[files]]

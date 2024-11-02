@@ -1,0 +1,13 @@
+name = "Revault"
+filename = "revault-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8egdGje/versions/Akni53Aa/revault-1.1.jar"
+hash-format = "sha512"
+hash = "315826a6d8cbf7864f16e54fc024a64554400d272b4e4d1e0be720b9fbb73fb804f36212d0224ee69bdc1ad0e67c694f7af28910e74090c6f52380284bc32b83"
+
+[update]
+[update.modrinth]
+mod-id = "E8egdGje"
+version = "Akni53Aa"

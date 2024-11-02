@@ -1,0 +1,4 @@
+#Keep the vanilla book inside the enchantment screen instead of rendering a reroll button.
+#The button is simply not visible, rerolling still works by clicking the book. Disabling the reroll feature itself is possible in the server config.
+#Default Value: false
+keep_enchantment_screen_book = true
