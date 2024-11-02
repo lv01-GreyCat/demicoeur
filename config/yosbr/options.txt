@@ -1,3 +1,4 @@
+version:3953
 enableVsync:false
 fov:0.5
 fullscreen:false
@@ -16,6 +17,14 @@ onboardAccessibility:false
 key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.keyboard.left.shift
 key_key.wi_zoom.zoom:key.mouse.5
+key_key.journeymap.minimap_type:key.keyboard.unknown
+key_key.journeymap.minimap_preset:key.keyboard.unknown
+key_key.journeymap.minimap_toggle_alt:key.keyboard.unknown
+key_key.journeymap.create_waypoint:key.keyboard.unknown
+key_key.journeymap.toggle_waypoints:key.keyboard.keypad.multiply
+key_key.journeymap.fullscreen_options:key.keyboard.unknown
+key_key.journeymap.fullscreen_waypoints:key.keyboard.b
+key_key.journeymap.toggle_entity_names:key.keyboard.unknown
 key_key.openNotes:key.keyboard.n
 key_ping-wheel.key.ping-location:key.keyboard.v
 key_key.trashslot.toggle:key.keyboard.unknown

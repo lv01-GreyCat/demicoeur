@@ -45,8 +45,1456 @@ file = "config/yosbr/config/vcinteraction/vcinteraction.properties"
 hash = "75ed7db429ea7a69074da2ffa33bf762df812a31041dcc23394cf8425595d188"
 
 [[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.core.config"
+hash = "87726d5f812ea6dba2944fafa65a77218b322b29aee3233ed2798303d17e57a7"
+
+[[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.fullmap.config"
+hash = "82a463b2e4946df93707cf38a22caa9d2d4542379f8fcba73366809f30528f4d"
+
+[[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.minimap.config"
+hash = "f56707b95db23a52ce73a8e65777b4deb0b55779ee0a30ab7dc31952d019d8b8"
+
+[[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.minimap2.config"
+hash = "aa81ccd1071d0e150c71e4b9176cbd3188c2771572af0dbff441ca15a5c249d1"
+
+[[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.rendering.config"
+hash = "f5caec7956fe1590f2952290509c160f5f3184b02232f585a035123409066717"
+
+[[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.topo.config"
+hash = "c99767ec4bb69ed3337db35d3b18ce87d12ee01ea18ce2fded9aa009997c54b2"
+
+[[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.waypoint.config"
+hash = "f525ab54ff6f6f506e1db8fbc90fecfff0e60cf502c78bb546a697810b972ffc"
+
+[[files]]
+file = "config/yosbr/journeymap/config/6.0/journeymap.webmap.config"
+hash = "e5885bdd7ac4e9b8d48ed6f086b524f2f4a03afc438f1b334a68d955ed529fc2"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/biome/-1,-1.png"
+hash = "ac9d9aada65cb94117c346f4b38649e96cf896022f21149b6b74c75a63d9d9ca"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/biome/-1,0.png"
+hash = "e703eaa07dfa3d6da8a940cdf1bd7148124c30a4179eef14217e879c9f1d368d"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/biome/0,-1.png"
+hash = "8133ab387fcadbfef10c95ebda7f861d74d36e336b7a7a0a0042deb35472c1c2"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/biome/0,0.png"
+hash = "89ef4a42db46661ccb4ca200d651e127f7143348dee92fbc1cd08df263daae3c"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/cache/r.-1.-1.mca"
+hash = "aa0b610932d6fce1483bd7a662028ea8ef53ef526eb81762d7ec49bb5b556613"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/cache/r.-1.0.mca"
+hash = "fe3e172e7274c9c73ea5bc3df56d179a89cb35f17d642326fd823a7c14d43e61"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/cache/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/cache/r.0.-1.mca"
+hash = "b34291a5cd4ee543d205ef5266b0e602017b4f572ed582851c7e7a30fd18fa7f"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/cache/r.0.0.mca"
+hash = "9212f53e532f1c537660ea7815dd5614ca6128f83a91e92f0c738673f0c9dd7b"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/cache/r.1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/cache/r.1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/day/-1,-1.png"
+hash = "f66c34690a223858108301b94d501397c6e945b9c3388609f9fb745230230693"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/day/-1,0.png"
+hash = "039b16a4757b4b83fd9af2d429b7e4adaa52b0fcfa5a325025b04f3173e65472"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/day/0,-1.png"
+hash = "3db5ef53f596500f91f2ddadd6ad655e00e490bc7d491c432527eac3d1cbbeeb"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/day/0,0.png"
+hash = "9aece5057c71b1eba995e206f76f08460ad23147934fb3e376948fda40076692"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/night/-1,-1.png"
+hash = "69ab9137386fc8c7edd134d4c41cef1c6a16d6fd22d63c425ef8d734292ad109"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/night/-1,0.png"
+hash = "397f43279833985715f826e298a83afed5662c16314fd361a963ef678f5ad0bf"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/night/0,-1.png"
+hash = "46d111b175fb3e75bc458bd6e3cd7131647c0beb87245b3227ae157145995088"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/night/0,0.png"
+hash = "913b1b1baedeb4a3462619e80303231a10d8f8d3519b4509956cc849c4c0de4f"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/-1,-1.png"
+hash = "c2d2a1e85d2ef7c97ca3327ebf32f7c6ce6900de6dbec35976554a72f901d6e0"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/-1,0.png"
+hash = "3daf00e1287dd10c868e11490dc161c94aa5cf8208651db83af17db3f64db309"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/0,-1.png"
+hash = "9c7db2a458720dd39ac694abfe60636dd9297f7eb78d6301bd2e3eab96adb17f"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/0,0.png"
+hash = "9ddb3e3e4c8a8789c8ef7cc6aa1a61b430a8b5dc85f7b03fa4136f8102f37c3c"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/cache/r.-1.-1.mca"
+hash = "3ff07139ef3595449db94144593ef896fb326d42f1fcacec0a37680030d4ca06"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/cache/r.-1.0.mca"
+hash = "c7c78e6f5af2ba1a80ff6e226f1f7694f6eee550e905b55b9b4330902c38db68"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/cache/r.0.-1.mca"
+hash = "ccaa349367dfc37638f3d095fe9fbef10749d57fcd21ac9506988fd8b9f19648"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/overworld/topo/cache/r.0.0.mca"
+hash = "ef39878251e7f31f91d9caf1f0e5d6fd7b42101589a67fc2b3a6dcfc225efe8f"
+
+[[files]]
+file = "config/yosbr/journeymap/data/sp/New World/waypoints/WaypointData.dat"
+hash = "e733b9414832c5c0d3440c804838c970090d580e247df1b801f967cb102989c2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/entity/minecraft/parrot_grey.png"
+hash = "d88f8bdd528b599acad2a9f0e4f4a9ba720e1d99915b5d697b09295a71b06d23"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/entity/minecraft/parrot_grey_outlined.png"
+hash = "b07f51cab9e504f46108c94a2ef4baf479b407df519c50eafe13e893394be223"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/default.theme.config"
+hash = "5ed3b4853654cef6243b0b6bb6df0525d512a947ab7485bf2ce8962cdd43cae2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/DesertTemple.theme2.json"
+hash = "3fbea9b4f7a132c50c2225f66e31bcc0421abee5ebf4d0faa2ce70055921ccd2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/EndCity.theme2.json"
+hash = "aa20458b3eb842261db12d9ce79509284049021bf8d9624ed1b17e6a43e891cf"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/ForestMansion.theme2.json"
+hash = "8c3305e78ac46c4b8a7b84ab4e0707ff4ed9b8011c3e34c153c7ba175864887e"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/NetherFortress.theme2.json"
+hash = "ca6f39a57b624ac3a02500a1bcc7671b8d09d0e350b44dde5141f3a1ea833a77"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/OceanMonument.theme2.json"
+hash = "174ac660305e06603087f3caa2fd64e3c7bd486a02a5a07723e88c63cf271475"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/Purist.theme2.json"
+hash = "654ac99369f348b3373133b3047006f73dec8fcc4158c185416126f19dabb2ad"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/Stronghold.theme2.json"
+hash = "70ac933ca3a16895c3826edfac645e6eec2f2b3de07dd86da7c7005157e4b824"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/container/htoolbar_begin.png"
+hash = "bc8e966e662dae481ce2913e7fe0f62b60e8434a3b7bf2a1a642191e13b97776"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/container/htoolbar_end.png"
+hash = "bc8e966e662dae481ce2913e7fe0f62b60e8434a3b7bf2a1a642191e13b97776"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/container/htoolbar_inner.png"
+hash = "4e9e98131151023530d5a43d33876f84081bfefb9556ba2463bed1ade05540e8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/container/vtoolbar_begin.png"
+hash = "46d97ea83ebb551a27b0fa9fbd9424067ebd0736623569171441c99b50cea2d1"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/container/vtoolbar_end.png"
+hash = "46d97ea83ebb551a27b0fa9fbd9424067ebd0736623569171441c99b50cea2d1"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/container/vtoolbar_inner.png"
+hash = "4e9e98131151023530d5a43d33876f84081bfefb9556ba2463bed1ade05540e8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_button_disabled.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_button_hover.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_button_off.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_button_on.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_toggle_disabled.png"
+hash = "b8b2aa7682e94d278638afd7682a1b2aebfea4b334af37e81f287ace04373f83"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_toggle_hover.png"
+hash = "692595968d043f271614f05fad795a25a4c9a049a1721650433f192d37e64ada"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_toggle_off.png"
+hash = "b8b2aa7682e94d278638afd7682a1b2aebfea4b334af37e81f287ace04373f83"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/control/flat_toggle_on.png"
+hash = "f5ba4168b5cb5f716b03e20c8804e95d978ed88cf6131427b9d6adcbfe46087c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/actions.png"
+hash = "c2b542e624984c33ba16fe6a098554b49f341967a752944e7e269fdcb71c2429"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/alert.png"
+hash = "983586f9f7921d2726ac2a53c232d06d722949fa77e157c1a7d98432c6dfc3e1"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/animals.png"
+hash = "f69dd9243bd212c311a2341d872b8e79eb3a7ec3b494f33e9eb2affde504984b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/automap.png"
+hash = "07cc0644f9f73540edc4615a458467eb74474b7554c0d6f5de0507703e9a77cf"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/caves.png"
+hash = "8c38e6593c9ca8a297447361828c000153a609479472350006306676e37ca290"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/close.png"
+hash = "b09d503f492134f700c50c73fc9ceefdda16134e0edf8ecc45198beae4fc6d9e"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/day.png"
+hash = "2452de72b9e65a58030ca20dc2f65105d383da9b923eaf84f4c09d6b30ca1d3c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/follow.png"
+hash = "47ebd2bba7b67408bb0445f48f83a45258bc2ebfa4bb42a33083a36db972e9ba"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/grid.png"
+hash = "889a0c720d702243e39a7aab3af3a3df1ba13b8366c1c3c5cd2624d26c778cba"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/layers.png"
+hash = "936372844d875f348d9615b3714fc5dd800d943928bac6531ad873af856d624d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/monsters.png"
+hash = "b2962a9f3e435446a08dc7aace83c0eef320f482922dcc7f90f0c98c0539c7a5"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/night.png"
+hash = "13372b9c000b9395fed397268d756dd8f10b6793690a954c65eed5c4066d79fb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/options.png"
+hash = "28536bc300859895c84561bb0608e100665ea6c162da937e6095fe10f558ce1c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/pets.png"
+hash = "ce213a4aa78e802d1e87518079201d58269231f07166839d9e75718760fe1336"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/players.png"
+hash = "5556bc88f910cc607588aedaffefdafc6a969d904ff77333498488f20b9b72f4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/savemap.png"
+hash = "da43846b1c2565f5050f1c69827535666a2ed10f1d3b1ecdd65bf2016b02c24b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/villagers.png"
+hash = "42f7fb610e73eefedaab909d5ef3e72902066c9fe89c41451d08dc1029619450"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/waypoints.png"
+hash = "1df53677cb2dcfc5c876a062b81000695a770e97d492bfd03467e8d8e79f1d10"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/zoomin.png"
+hash = "1eab60c1b3d19355c9ed3a936ea748aded40b1612a5a3a184e9065ed0134c09c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/icon/zoomout.png"
+hash = "76dbdca4e02d0babb60f51b7e47ac85196b8b11f38922065d0f1f33905afae65"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png"
+hash = "2ec50be3a53372110fd726f20b53c35b254b91aeda2ec692630ee5864d268b4f"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png"
+hash = "d45cc0ea6a7bf2f66bc57f982704a713299f2f2e8836362c0da2f99e095424e2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png"
+hash = "c1d5583ac56ad87938cd2d7a385766277c4ca57e49563c5787a9f412ab57f4ea"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png"
+hash = "16f249791b986c0cd021de987f64cf59c36cc8c501727817a941942aeace2915"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png"
+hash = "ed890971359a4bcb5702f6c230c20c93dc30c4a6c709879256c39522cec03261"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png"
+hash = "2e577e98bc9b5a37434d5b446e290d814264f2389c50f0b815bd8c67ce537e53"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png"
+hash = "0bded5ef2d8ac502c21338c2fcdf413eb43f78923949d6e363d25d56380a82f9"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png"
+hash = "0f74c82f31451f880ef0d90a8a566b02b5f3304ebd50cb24234da5d8527c56ca"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png"
+hash = "5fb8ebd32460266dd14a59a3e1986b6438131c1d2e751496bec3f8a7ec042a8e"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png"
+hash = "ca24f18c51c76b646daa598ca4438f89a83d684e151a77e9de16134d2e235c2f"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_bottom.png"
+hash = "0ed5af808f8f5f03cb4c7faf373e6d0a1b630cd08b23de1c9972f83d5e588f15"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png"
+hash = "2114d16ad8ca024c022fa74baa05305d569b3f5411e38c0f7598bb5d8f615acb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_bottomright.png"
+hash = "e601888a5731292294b34a02afbbf6c9feffa84b323a37f3c8db798bbfcee46c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_compass_point.png"
+hash = "beda592f3784f1263f372d6cc2f0d96ab0b44eb0f413a9b2b53bdffc0741a2c8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_left.png"
+hash = "8adc7d1cf82ff67f3a89f57a04c122c3247eac7b4745b324489c4dd38cce1de3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_right.png"
+hash = "df82f5728a76c1e5444d927fc8abbdc4f6dce2f8af69b91e0c20bb0107a67d0e"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_top.png"
+hash = "325914f3f24630c3d0fd5c8913dda5c756c6e223cdea9d10c2edf8bbb5cb5451"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_topleft.png"
+hash = "1c536d3bd14cb7d97c2a1c65bd5bd4eb97e37021e0e9ff7509f14ee12656ee1e"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/flat_topright.png"
+hash = "8bd7546ab31d772403040589a7d245ee0355b2d55a6f490b97dd2097a6394969"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png"
+hash = "2d43664a74f98a5f79ff649757640eb3f45c64f6b5fa7b39b59b2d1bded8b9b2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_bottomright.png"
+hash = "8b36b22cd5d89cdfaca944d18c791f77c525234efa8c6397d7bc9a0eb3f02e8c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_compass_point.png"
+hash = "beda592f3784f1263f372d6cc2f0d96ab0b44eb0f413a9b2b53bdffc0741a2c8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_left.png"
+hash = "52c056947aba9e6eddad0629f00a5047e652e2b4c4c2dcd93029639c1d1e4a54"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_right.png"
+hash = "05a92d917a534561d495f14cd3ea90d6228fb8f625dcb429bd8975d2c50f2450"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_top.png"
+hash = "c9aad7b0b00e2becede24938f9b96e3143c0ec168294e8f232f3c7389b50416d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_topleft.png"
+hash = "80ef5b6d0f012cf6b3f231b7a397285e5ea895a1527f4d86acbe1e79f905c1b7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/flat/minimap/square/pur_topright.png"
+hash = "7583ad283f7df4e47893d1081eed19da4c09cdeeb22f6378b2f5b012ea532320"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/container/htoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/container/htoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/container/htoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/container/unkown.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/container/vtoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/container/vtoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/container/vtoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_button_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_button_hover.png"
+hash = "bbb7161ccc441107f41514acf6643912fc6900fb882e1db5fa2880d524bfa2cb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_button_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_button_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_toggle_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_toggle_hover.png"
+hash = "099cacc81687b8c2b2e6f7dc627df8a518978f798556210197255a1d1daa0be0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_toggle_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/control/flat_toggle_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottom.png"
+hash = "989e0266950e2dbffb216cc2be2a8bae0f98a6a793b002f2eda23f76c316ee95"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomleft.png"
+hash = "32690d8f0176477702adfd890b2142c9a9fd96ec85bfd281231867252188f54c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomright.png"
+hash = "adca6da02711e934f98c2dd29f11cd8ec72f61605e17103d8061caa39f3ad89b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_compass_point.png"
+hash = "9e3edd90e49e7ec41450e4ced44ad27b1042e025011ab51a745d0e2399120965"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_left.png"
+hash = "237f0a3a743cc88038738d988032f6111c4de754a6bbff16091904db8e7a6273"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_right.png"
+hash = "9b850607adb21bcbcfba1837955cf1f0de448fc5ae62e67c00f766aae17b4b96"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_top.png"
+hash = "8e3fe79f36f38cbf2062ae2538288ed2459fa36ba7e5f98d28719dfc7a386e01"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_topleft.png"
+hash = "e7be45aa3a314b93915dff96151b72d34928867654c63fe704faac923e6f1fb8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/flat_topright.png"
+hash = "b54d3d791113b6cfb416501782e67d3bb1a50164e0942ef5319d6b042252a2fe"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/_flat/vault.theme2.json"
+hash = "0b06db83ef48682d2101ccd86ff729dffd578b23b0ae77e25a30c59cf2fd1358"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/container/htoolbar_begin.png"
+hash = "6b47f2184f521d86dd0d67f1dfede88faeee30943646db8228de13e34ae5f7cd"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/container/htoolbar_end.png"
+hash = "0262d8e4340c2dd73ced8acc74cbafaddf032a68124bc9036b816f7cb10ec728"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/container/htoolbar_inner.png"
+hash = "ebd7a894d03de371fc9a4b6205451bccb6e0b3942b2ff29c05ca83de37c2a26a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/container/vtoolbar_begin.png"
+hash = "e68272687637df8d52886debd32c3f8914b0106c08b60d39f9130cc7cb0d8fd7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/container/vtoolbar_end.png"
+hash = "c20e3ada12970cd29509008e9237316d85c7fdc58b2b6024cc132f5b480a7dc3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/container/vtoolbar_inner.png"
+hash = "c23e3d44f86900d2f04b2d8172da1ed7e5bb46904ea555adc959ef719cc21d32"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_button_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_button_hover.png"
+hash = "bbb7161ccc441107f41514acf6643912fc6900fb882e1db5fa2880d524bfa2cb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_button_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_button_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_toggle_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_toggle_hover.png"
+hash = "099cacc81687b8c2b2e6f7dc627df8a518978f798556210197255a1d1daa0be0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_toggle_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/control/flat_toggle_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_bottom.png"
+hash = "989e0266950e2dbffb216cc2be2a8bae0f98a6a793b002f2eda23f76c316ee95"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_bottomleft.png"
+hash = "32690d8f0176477702adfd890b2142c9a9fd96ec85bfd281231867252188f54c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_bottomright.png"
+hash = "adca6da02711e934f98c2dd29f11cd8ec72f61605e17103d8061caa39f3ad89b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_compass_point.png"
+hash = "9e3edd90e49e7ec41450e4ced44ad27b1042e025011ab51a745d0e2399120965"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_left.png"
+hash = "237f0a3a743cc88038738d988032f6111c4de754a6bbff16091904db8e7a6273"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_right.png"
+hash = "9b850607adb21bcbcfba1837955cf1f0de448fc5ae62e67c00f766aae17b4b96"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_top.png"
+hash = "8e3fe79f36f38cbf2062ae2538288ed2459fa36ba7e5f98d28719dfc7a386e01"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_topleft.png"
+hash = "e7be45aa3a314b93915dff96151b72d34928867654c63fe704faac923e6f1fb8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/flat_topright.png"
+hash = "b54d3d791113b6cfb416501782e67d3bb1a50164e0942ef5319d6b042252a2fe"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault/vault.theme2.json"
+hash = "04d175f8e226ef9545cb7e6dfbe5b124559097609f651b15c4809a5eb4c5685a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/container/htoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/container/htoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/container/htoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/container/unkown.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/container/vtoolbar_begin.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/container/vtoolbar_end.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/container/vtoolbar_inner.png"
+hash = "365ebb64eeea3f725326f70b9d68c3a5231e598c79582c10197ff44acd80cab6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_button_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_button_hover.png"
+hash = "bbb7161ccc441107f41514acf6643912fc6900fb882e1db5fa2880d524bfa2cb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_button_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_button_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_toggle_disabled.png"
+hash = "c8c692af6b9c9e8ce9c814cb40ac9ddbb3210fb7ba65258bcba7ec5598b9b2b7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_toggle_hover.png"
+hash = "099cacc81687b8c2b2e6f7dc627df8a518978f798556210197255a1d1daa0be0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_toggle_off.png"
+hash = "950c4ad4ce83a20f4ffe5027bba39e66dedf52e9f0287639ebde24efaa64c1b2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/control/flat_toggle_on.png"
+hash = "8f14da44f7733a13271159558f0bde132e707eeb96da62e4bbae4f0dd5b68834"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_bottom.png"
+hash = "989e0266950e2dbffb216cc2be2a8bae0f98a6a793b002f2eda23f76c316ee95"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_bottomleft.png"
+hash = "32690d8f0176477702adfd890b2142c9a9fd96ec85bfd281231867252188f54c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_bottomright.png"
+hash = "adca6da02711e934f98c2dd29f11cd8ec72f61605e17103d8061caa39f3ad89b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_compass_point.png"
+hash = "9e3edd90e49e7ec41450e4ced44ad27b1042e025011ab51a745d0e2399120965"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_left.png"
+hash = "237f0a3a743cc88038738d988032f6111c4de754a6bbff16091904db8e7a6273"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_right.png"
+hash = "9b850607adb21bcbcfba1837955cf1f0de448fc5ae62e67c00f766aae17b4b96"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_top.png"
+hash = "8e3fe79f36f38cbf2062ae2538288ed2459fa36ba7e5f98d28719dfc7a386e01"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_topleft.png"
+hash = "e7be45aa3a314b93915dff96151b72d34928867654c63fe704faac923e6f1fb8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/flat_topright.png"
+hash = "b54d3d791113b6cfb416501782e67d3bb1a50164e0942ef5319d6b042252a2fe"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/vault_flat/vault.theme2.json"
+hash = "0b06db83ef48682d2101ccd86ff729dffd578b23b0ae77e25a30c59cf2fd1358"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/container/htoolbar_begin.png"
+hash = "97e938c580373d50028c77617181412e5a1b983f8b36dd9a3f088144962d9058"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/container/htoolbar_end.png"
+hash = "44c1a9340e33ae81204feaf6e98b908db783bda859456cca0429cae1128c7b20"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/container/htoolbar_inner.png"
+hash = "e2b833311ebc2ce33156f8ace3745261b073ae03db462fba385ae2da0c1b7958"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/container/vtoolbar_begin.png"
+hash = "d3c9b3525791419c8767cc908cfb77836838ef8fe8ad9735652e0b2a9eba7cd6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/container/vtoolbar_end.png"
+hash = "d819d5d8cd03d2dcd47d95e9188541910b29dadcf5b7ee06833fd78f502e5de8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/container/vtoolbar_inner.png"
+hash = "a4b5e3712b2d581157eb32351e349165367d264c44cfc5adfc774653e39f9967"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/button_disabled.png"
+hash = "137ea470fc551b28a1ac9c468689c4c6bdc97b1f937d12e0f0f22384609a4ff8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/button_hover.png"
+hash = "60e8dcde80397343e745054b741bafe9053aa116eb872744531c1d5136e84b5d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/button_off.png"
+hash = "e50f8af5fc171bf07280d38454ec8bebb5f018398e90ee9153a38129b77b99dc"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/button_on.png"
+hash = "60e8dcde80397343e745054b741bafe9053aa116eb872744531c1d5136e84b5d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/toggle_disabled.png"
+hash = "036ab36823a406ee1d23bd4e8fefc1ef14031bb4e7a5abc3899b809a742351a4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/toggle_hover.png"
+hash = "3664dec513c1ce0be4083cf454c6357fff8f862334c53049fb7c1c3f8a071bdb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/toggle_off.png"
+hash = "3664dec513c1ce0be4083cf454c6357fff8f862334c53049fb7c1c3f8a071bdb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/control/toggle_on.png"
+hash = "3df9104ccf5f5a080f54afb6c5876e0362d589361f043739bedc6bd96735bb1f"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/actions.png"
+hash = "119107e903a6d35227fcae043d7147c9b3fbfb77be9343d10f895701946339c9"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/alert.png"
+hash = "55eebc1b6375a1da033d3947bc31c3c1a8e0a68e9cda8676fd6ea6e0f866ed25"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/animals.png"
+hash = "7473956da4e58db7fa5e4b780e125664b853233ceb3cfed4eef262212e54a894"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/automap.png"
+hash = "201a4ce30bae3339eff9bf16fed8dfc594f7edd3735e3f84f9da796b2c34f55c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/caves.png"
+hash = "359dcf716a4a7103e537b31729b202295794664d620aad1bdfa6f7ad5446f331"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/close.png"
+hash = "5a7d17808089cd25344d430579991f1dfd74c10b2b30f3d450f8f32459a0aaeb"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/colorpalette.png"
+hash = "4f361d7396a293f5dc81f52bf3aed314095ae951ac93b466a45f3a53c58fd4dd"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/day.png"
+hash = "5b81c0e5b3aa7d2f028d934b860d80335b6fd1d3651328db5611ced1665a7eb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/follow.png"
+hash = "58fc1d713c2ac56f204296a67bf51df3c957451a0f7eb683379a5ab10723cf6b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/grid.png"
+hash = "68756478c3f03c7eabe2cd011ea07e3edddd63891fb7fcbfe64a499766b0a7a4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/keys.png"
+hash = "d02460aa0c17556f8a349a9eb523d0b03a2e300c3b85757234291524ba5ab48c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/layers.png"
+hash = "5b6c567a240f824709114a48a9371e08a5f2e4357690bcf1784c3bf323ac4e1a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/monsters.png"
+hash = "37fd6b6f07fd79f6f8b5c00d98741c5d6bc8aba04e735d35b13a4f6b81391462"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/night.png"
+hash = "58356a3aefd83949a4128991fd44272239a17c2b587d5b407d2abdad6f7b5502"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/options.png"
+hash = "95d4ceca2b848c243baa358de11f5c05cc76ab9faa692bd2962a67fd61156a48"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/pets.png"
+hash = "0eb51a17c2b0de3815a5248ab64028ccbf17edd6fde03c37e4250902f222d99d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/players.png"
+hash = "bd7dd9f69ffb7ee1c8a0bf1c64b1a17b33d027ddd149b267bad4708ddbae7ecc"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/savemap.png"
+hash = "bed515da79bb1c1acd8a0a0fcee93bb56265ee82938f537def3f8cf707912d47"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/topo.png"
+hash = "74c6d78eb024a35192745552a0aecf3b8c64baae5d8a369d29ddec5504cc8347"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/villagers.png"
+hash = "27b1a4e2836d0056f1a22c1bb1e71ffcc036eb5d07b217c10f03b7130ae1f2f8"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/waypoints.png"
+hash = "8fae56b87be08863b01ab7b0ac9e76492f795d36fa2ffecd7abbc50c92ecf08c"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/zoomin.png"
+hash = "836820c93e2e84636a4a9d05f5b5e933a8ab959a21c5c2d899bf5227d5a2dbb2"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/icon/zoomout.png"
+hash = "f2324343490020526f921860a2f8c6d4d92cf23c30025d1918175af43ae184f0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/circle/compass_point.png"
+hash = "556070f8bd241073467a727bec2a8f73921e187af391025f11d24e9f24b044d9"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/circle/mask_256.png"
+hash = "0bded5ef2d8ac502c21338c2fcdf413eb43f78923949d6e363d25d56380a82f9"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/circle/mask_512.png"
+hash = "0f74c82f31451f880ef0d90a8a566b02b5f3304ebd50cb24234da5d8527c56ca"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/circle/rim_256.png"
+hash = "6e262cd9a8d21ed1a68644ebbbd6d866ab2cc4bc3093cda06f309aa81f9c67af"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/circle/rim_512.png"
+hash = "07773aae3ea94d763cced2569fb4d8b2bdb4817e9a6669e772f34e3deee32bc6"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_bottom.png"
+hash = "850f485150addbc06135bceb1d2b018faba9ef60202db9f663180befe15a624b"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_bottomleft.png"
+hash = "ab6111902aefbd82da31e0800bf3a14ccd53365062c5bd78ea3c65b7470fbbe7"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_bottomright.png"
+hash = "78cd6aa051aef085d7c7a076ed8dac87328d1190e8859e64f3aba0728aa2c35a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_left.png"
+hash = "8c3e9acddfd1cfed9b89b10c67c8819b6b1dc53301f43f897fb362ef68af887f"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_right.png"
+hash = "4361b97ebccad397397011e6dcdf76d8fba972a2276ae181b87db5cdc1a58398"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_top.png"
+hash = "6dde804287505c0aa1246e1a33041cb1d46e2af5c117bac8ea9f82901a9a5ede"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_topleft.png"
+hash = "a0da4decf637999132fb3c12912c8a2b5f6f157dfbc40eb9a761ada74b6601da"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/pur_topright.png"
+hash = "f1ebbdaaa06e89dcf260d82b91f847a4b5a92b8d175defd172525c019fd8a795"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_bottom.png"
+hash = "6dac7ecc94e350130fa58d390e9829f37c4b5dd74089b301a3618398c98d092d"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_bottomleft.png"
+hash = "257f0453b3252fa342eb6ca601bc10371d11ded4297a77d09f252cc59cd62a8f"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_bottomright.png"
+hash = "371a818d10b07f529fdb7188e49fd0418138a74b338261781431f4f994b28489"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_compass_point.png"
+hash = "843d44d5ac1df4ff78f7c3363e8239d1923fd07d196e525446c4ad6dc9375eb0"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_left.png"
+hash = "6b0b5407f0f0c8907899df46c4370d94f0e82c6b701441f72c1776066b83231a"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_right.png"
+hash = "446ce3c4c0f8f0ac115482e4a7b374b2031c1140b90777178d81acc3c3eb34ff"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_top.png"
+hash = "3cd81a76556a8c241a6baf376e5f36346fee2cadce150c91d3d9298b7c2b43e3"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_topleft.png"
+hash = "832e717169b9d50eaacdf8e477e6d0b92ddb66bdb4d6d6a7a376850e182449d4"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/minimap/square/vic_topright.png"
+hash = "2765ceaed6f26855206f8d4c6a67c4f6175ebae23607c8a4615d4d975afae33e"
+
+[[files]]
+file = "config/yosbr/journeymap/icon/theme/victorian_/victorian_.theme2.json"
+hash = "534b388fb1458afe7ac918ee3016e7a22bf79a9fdd90433b8be5e1fd57376e06"
+
+[[files]]
+file = "config/yosbr/journeymap/journeymap.log"
+hash = "3776a494dcc450b453a73102366469429937b9614ce4774530fc663b2e27ca67"
+
+[[files]]
+file = "config/yosbr/journeymap/server/6.0/journeymap.server.default.config"
+hash = "b9c1357eef56a9122a3ad50e4fbc131d020c45e9c108fde3bbb797f575af445a"
+
+[[files]]
+file = "config/yosbr/journeymap/server/6.0/journeymap.server.global.config"
+hash = "aa5debba245112c1313d005eda9fdfb9e6f56cfcf300fc9fcecd67161e7d5e44"
+
+[[files]]
+file = "config/yosbr/journeymap/server/6.0/journeymap.server.minecraft~overworld.config"
+hash = "f6660c137a5e97257112f90d361e200369c23421680edf42e68770fa47f12ba5"
+
+[[files]]
+file = "config/yosbr/journeymap/server/6.0/journeymap.server.minecraft~the_end.config"
+hash = "de87b3df224791e189212072149806668f10a1aba5556568daa19f4dcec08811"
+
+[[files]]
+file = "config/yosbr/journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
+hash = "204970430f8486ba8f63bdfa91bacb0c9794f7d98415e7b2bce343d275cc682c"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "c57673e8ffa461c74125c6fd6d6c604f33b0c38606f2b0467fadf5a27a45bf15"
+hash = "6f8aa668b8f3bb4e4e9fba4c626ec47d2c8cc5fe81aaeb75dee038d1e6b703c3"
 
 [[files]]
 file = "config/yosbr/servers.dat"
