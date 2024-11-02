@@ -40,11 +40,12 @@
 	],
 	"pack_overrides": {
 		"1": [
+			"programmer_art",
 			"black_icons",
 			"white_icons",
 			"classic_icons",
 			"lootr:old_textures",
-			"programmer_art"
+			"file/3DCraft"
 		],
 		"$$1": {
 			"hidden": true
